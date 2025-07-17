@@ -4405,4 +4405,24 @@
 			+ rest flesje bij serveren
 		</textLine>
 	</recipe>
+	<recipe name="VIRGIN SANGRIA" nr="125" fontSize="60" bold="yes">
+		<textLine fontSize="37" bold="yes">
+			G&amp;T-glas
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			Gesneden fruit in glas (appelsien, citroen, kiwi, aardbei)
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			VOL met ijsblokken
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			Aanvullen met Virgin sangria
+		</textLine>
+		<textLine fontSize="37" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			Lange lepel erin + kort rietje
+		</textLine>
+	</recipe>
 </recipes>
