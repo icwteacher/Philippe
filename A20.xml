@@ -4593,4 +4593,21 @@
 			Flesje Sprite
 		</textLine>
 	</recipe>
+	<recipe name="KIWI BREEZE" nr="130" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			PLASTIC SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			10cl De Kuyper Kiwi
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Eristoff wit
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			2cl Triple Sec
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Aanvullen met ananassap
+		</textLine>
+	</recipe>
 </recipes>
