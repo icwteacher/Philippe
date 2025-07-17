@@ -905,4 +905,33 @@
 			+ gedroogde limoen + kers + suikerrietstengel
 		</textLine>
 	</recipe>
+	<recipe name="COINTREAUPOLITAN" nr="26" fontSize="52" bold="yes">
+		<textLine fontSize="40" bold="no">
+			Martiniglas (ribbels) voorkoelen
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			5cl Triple sec
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Limoensapmix
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			10cl Veenbessensap
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIRREN
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Appelsienzeste (krullen en in glas)
+		</textLine>
+	</recipe>
 </recipes>
