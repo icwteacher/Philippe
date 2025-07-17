@@ -4443,39 +4443,4 @@
 			Kontje passievrucht in glas
 		</textLine>
 	</recipe>
-	<recipe name="SAFE SEX ON THE BEACH" nr="124" fontSize="48" bold="yes">
-		<textLine fontSize="33" bold="yes">
-			MASON JAR 1/2 crushed ice
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			10cl Sinaassap
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			10cl Ananassap
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			2cl Monin puree passie
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			1cl Monin puree peach
-		</textLine>
-		<textLine fontSize="33" bold="yes">
-			STIR
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			5cl cranberry (voorzichtig bovenop gieten)
-		</textLine>
-		<textLine fontSize="33" bold="yes">
-			TOPPING
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			Kort rietje
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			Gedroogde appelsien + Cocktailkers + ananasstengel + munttopje
-		</textLine>
-		<textLine fontSize="33" bold="no">
-			Bloemsuiker erover
-		</textLine>
-	</recipe>
-</recipes>	
+</recipes>
