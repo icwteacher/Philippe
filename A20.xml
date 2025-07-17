@@ -4317,4 +4317,92 @@
 			Bloemsuiker erover
 		</textLine>
 	</recipe>
+	<recipe name="VIRGIN RAZZJITO" nr="121" fontSize="48" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			2 verse frambozen
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			2cl Monin puree framboos
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Scheutje Canada Dry
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			+ gedroogde limoen + framboos + suikerrietstengel
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN MOSCOW MULE" nr="122" fontSize="48" bold="yes">
+		<textLine fontSize="37" bold="yes">
+			Mule glas vol ijsblokken
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			10cl FT Ginger beer
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			30 cl limoensapmix
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="37" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			Fever Tree Ginger Beer voor de helft uitgieten
+		</textLine>
+		<textLine fontSize="37" bold="yes">
+			STIR ZACHT
+		</textLine>
+		<textLine fontSize="37" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			Kort rietje + gedroogde limoen
+		</textLine>
+		<textLine fontSize="37" bold="no">
+			+ rest flesje bij serveren
+		</textLine>
+	</recipe>
 </recipes>
