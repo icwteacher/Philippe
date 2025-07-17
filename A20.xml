@@ -3103,4 +3103,421 @@
 			Kort rietje
 		</textLine>
 	</recipe>
+	<recipe name="SCHELDE SPRITZ" nr="90" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			G&amp;T GLAS VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			8cl Cava
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			6cl Elixir D�anvers
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4cl Bruiswater
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR KORT
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Gedroogde appelsien
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje + Antwerps handje op het glas
+		</textLine>
+	</recipe>
+	<recipe name="SKINNY BITCH" nr="91" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			LONGDRINK VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			5cl Eristoff wit
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Pulco citroen
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			10cl Bruiswater
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR KORT
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			1 limoenpartje
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Lang rietje
+		</textLine>
+	</recipe>
+	<recipe name="SLIM SENORITA" nr="92" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			LONGDRINK VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			5cl Gin rosee
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Pulco citroen
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			10cl Bruiswater
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR KORT
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Limoenpartje, framboos
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Lang rietje
+		</textLine>
+	</recipe>
+	<recipe name="SEX IN DE COPA" nr="93" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="yes">
+			SHAKER VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			4cl Eristoff wit
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			1cl Bols peach
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			1cl Passoa
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin puree passie
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			8cl Sinaas
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			8cl Veenbes
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKE
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN in Mason Jar
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			+ Munttopje + Kontje passievrucht +
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="SEX IN THE SHOWER" nr="94" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="yes">
+			MASON JAR 1/2 CRUSHED
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			4cl Eristoff wit
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			1cl Bols peach
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Bols blue cura�ao
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			1cl Monin puree perzik
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			Aanvullen Crushed ice
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			10 cl sprite bovenop
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			+ gedroogde appelsien + Cocktailkers + Munttopje
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="SEX IN�T STAD" nr="95" fontSize="60" bold="yes">
+		<textLine fontSize="32" bold="yes">
+			SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4cl Eristoff wit
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			1cl Bols peach
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			1cl Monin puree peach
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Elixir D�anvers
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			8cl sinaassap
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			8cl Cranberry
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			SHAKE HARD
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			STRAIN IN MASON JAR MET CRUSHED ICE
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			+ gedroogde appelsien + ananasstengel + Antwerps handje (op de rand leggen) + bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="SEX ON THE BEACH" nr="96" fontSize="48" bold="yes">
+		<textLine fontSize="32" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			5cl Eristoff wit
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Bols peach
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			1cl Monin Puree Peach
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			8cl Veenbessensap
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			8cl Ananassap
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			STRAIN IN MASON JAR met crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl grendine erover
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			+ gedroogde appelsien + Cocktailkers + ananasstengel + Munttopje
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="SEX WITH YOU" nr="97" fontSize="60" bold="yes">
+		<textLine fontSize="30" bold="yes">
+			SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			4cl Eristoff wit
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2cl Bananenlikeur
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			1cl Monin puree Perzik
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			1cl Monin puree banana
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			8cl Ananassap
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			SHAKE HARD
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			STRAIN IN MASON JAR met CRUSHED ICE
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2 cl grenadine bovenop
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			+ gedroogde appelsien + Cocktailkers + ananasstengel + Munttopje
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="SHARK ATTACK" nr="98" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			MASON JAR VOL CRUSHED ICE
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4cl Bacardi carta blanca
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			2cl Blue cura�ao
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Limoensapmix
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			10cl Sprite
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Gedroogde limoen, limoenschijf
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			+ haai met grenadine in (NIET teveel, enkel bodem)
+		</textLine>
+	</recipe>
+	<recipe name="SPICY GIN MULE" nr="99" fontSize="60" bold="yes">
+		<textLine fontSize="30" bold="yes">
+			SHAKER VOL IJSBLOKKEN
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2 jalapeno�s
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			4 muntblaadjes
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			5cl gin
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			1x barspoon jalapenos sap
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			6cl Limoensapmix
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			Mule glas vol ijsblokken
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			DOUBLE STRAIN
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Fever Tree Ginger Beer voor de helft uitgieten
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			STIR ZACHT
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Kort rietje + gedroogde limoen
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			+ 1 Jalapeno
+		</textLine>
+	</recipe>
+	<recipe name="STRAWBERRY MARGARITA" nr="100" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas rand inwrijven met limoen + zout op rand
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			4cl Tequila
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Triple Sec
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			1cl Bols Strawberry
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin Puree aardbei
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Gedroogde limoen in glas leggen + � aardbei
+		</textLine>
+	</recipe>
+	<recipe name="STRAWBERRY CAIPIRINHA" nr="101" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			4 partjes limoen + 1 aardbei
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl Cacha�a
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Bols Strawberry
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Monin Puree aardbei
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + Gedroogde limoen + �  aardbei + Suikerrietstengel
+		</textLine>
+	</recipe>
 </recipes>
