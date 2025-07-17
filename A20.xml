@@ -41,4 +41,868 @@
 			Lang rietje + gedroogde limoen + cocktailkers
 		</textLine>
 	</recipe>
+	<recipe name="AMALFI MULE" nr="2" fontSize="60" bold="yes">
+		<textLine fontSize="30" bold="yes">
+			Mule glas vol ijsblokken
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			4cl Limoncello
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2cl vodka
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2 partjes limoen uitpersen in glas
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Fever Tree Ginger Beer voor de helft uitgieten
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			STIR ZACHT
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Kort rietje + gedroogde limoen
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			+ rest flesje bij serveren
+		</textLine>
+	</recipe>
+	<recipe name="AMARETTO ESPRESSO MARTINI" nr="3" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="no">
+			Zet een espresso
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Martiniglas voorkoelen
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Kahlua
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Amaretto
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			1 Espresso
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			HARD SHAKEN
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3 koffiebonen i.h. midden
+		</textLine>
+	</recipe>
+	<recipe name="AMARETTO SOUR" nr="4" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			5cl Amaretto
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Pulco Citroen
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			1cl Suiker
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4 druppels eiwitvervanger
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STRAIN IN SHORT DRINK
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Gedroogde citroen
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Cocktailkers
+		</textLine>
+	</recipe>
+	<recipe name="AMERICANO" nr="5" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			SHORT DRINK VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Martini Rosso
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Campari
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			6cl Bruiswater
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Gedroogde appelsien
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Cocktailkers
+		</textLine>
+	</recipe>
+	<recipe name="APEROL SPRITZ" nr="6" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			WIJNGLAS VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			8cl Cava
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			6cl Aperol
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4cl Bruiswater
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR KORT
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Verse appelsienschijf
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje
+		</textLine>
+	</recipe>
+	<recipe name="BANANA COLADA" nr="7" fontSize="60" bold="yes">
+		<textLine fontSize="32" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			5cl Batida de coco
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Bols Banana
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Monin puree Banaan
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			15cl Ananassap
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			STRAIN IN MASON JAR met crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			+ gedroogde ananas
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			+ ananasstengel + 2 schijfjes banaan op prikker + kokospoeder
+		</textLine>
+	</recipe>
+	<recipe name="BANANITO" nr="8" fontSize="72" bold="yes">
+		<textLine fontSize="28" bold="no">
+			4 partjes limoen + 1 geut suiker
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			4 cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			2cl Bols Banaan
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			2cl Monin puree banaan
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Scheutje Bruiswater
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			+ gedroogde limoen + 2schijfjes banaan op prikker
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			+ Suikerrietstengel
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="BIENVENIDO MOTHERFUCKER" nr="9" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="no">
+			LONGDRINK glas
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Eristoff wit
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Tequila
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Bombay Dry
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Vullen met crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Aanvullen met sprite
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl grenadine
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + gedroogde limoen + cocktailkers
+		</textLine>
+	</recipe>
+	<recipe name="BLACK CAIPIRINHA" nr="10" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			4 partjes limoen + 4blauwe bessen
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl Cachacha
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Eristoff Black
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Monin Puree bosbessen
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Monin puree framboos
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + Gedroogde limoen + 1 framboos + 2 blauwe bessen
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			+ Suikerrietstengel
+		</textLine>
+	</recipe>
+	<recipe name="BLACK CAIPIROSKA" nr="11" fontSize="48" bold="yes">
+		<textLine fontSize="30" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			4 partjes limoen+ 4 blauwe bessen
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			5cl Eristoff Black
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2cl Monin puree bosbessen
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2cl Monin puree framboos
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			+ gedroogde limoen + 2 blauwe bessen+ 1 framboos +
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			+ Suikerrietstengel
+		</textLine>
+	</recipe>
+	<recipe name="BLACK RUSSIAN" nr="12" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="no">
+			SHORTDRINK halfvol ijsblokken
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Kahlua
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Eristoff wit
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			GLAS VOL IJSBLOKKEN
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3 koffiebonen
+		</textLine>
+	</recipe>
+	<recipe name="BLUEBERRY MOJITO" nr="13" fontSize="48" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			4 partjes limoen + 5 blauwe bessen
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			4 cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			2cl Monin Puree Bosbessen
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Scheutje Bruiswater + 1cl carta Blanca
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			+ gedroogde limoen + 3 blauwe bessen
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			+ Suikerrietstengel
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="BLUEBERRY DAIQUIRI" nr="14" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas voorkoelen
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2 blauwe bessen muddlen in shakerglas
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin puree Blueberry
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			gedroogde limoen + 2 blauwe bessen
+		</textLine>
+	</recipe>
+	<recipe name="BLUE LAGOON" nr="15" fontSize="52" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			MASON JAR � crushed ice
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4cl Eristoff wit
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			2cl Blue Curacao
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Limoensapmix
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIRREN
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			Aanvullen met crushed ice
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Aanvullen met sprite (10cl)
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje + gedroogde citroen+ cocktailkers
+		</textLine>
+	</recipe>
+	<recipe name="CAMPARI SPRITZ" nr="16" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			WIJNGLAS VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			8cl Cava
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			6cl Campari
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4cl Bruiswater
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR KORT
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Verse appelsienschijf
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje
+		</textLine>
+	</recipe>
+	<recipe name="CAFE BRULEE" nr="17" fontSize="60" bold="yes">
+		<textLine fontSize="32" bold="no">
+			Tas koffie zetten
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			Shakerglas voor 2/3
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			vullen met ijs
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			8cl melk
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl suiker
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4cl Kahlua
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Koffie in shaker
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			HARD EN LANG SHAKEN
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			STRAIN IN SHORTDRINK zonder ijs
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Voorzichter suiker op de schuimlaag strooien
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Brand de suiker tot karamel
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Kort rietje
+		</textLine>
+	</recipe>
+	<recipe name="CAIPIRINHA" nr="18" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2 geuten suiker
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Cacha�a
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			+ Gedroogde limoen + Rietsuikerstengel
+		</textLine>
+	</recipe>
+	<recipe name="CAIPIROSKA" nr="19" fontSize="60" bold="yes">
+		<textLine fontSize="35" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			2 geuten suiker
+		</textLine>
+		<textLine fontSize="35" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			5cl Eristoff wit
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="35" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="35" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="35" bold="no">
+			+ gedroogde limoen+ Rietsuikerstengel
+		</textLine>
+	</recipe>
+	<recipe name="CHERRINHA" nr="20" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl Cacha�a
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Monin Puree kers
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + Gedroogde limoen + 1 kers + Suikerrietstengel
+		</textLine>
+	</recipe>
+	<recipe name="CHERRITO" nr="21" fontSize="36" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			5 cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			3cl Monin puree Kers
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			1cl Carta Blanca
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			+gedroogde limoen+ kers + suikerrietstengel
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="CHERRITA" nr="22" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas rand inwrijven met limoen + zout op rand
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Tequila
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Triple Sec
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin Puree kers
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Gedroogde limoen in glas leggen + kers op limoen
+		</textLine>
+	</recipe>
+	<recipe name="CHERRY COLADA" nr="23" fontSize="60" bold="yes">
+		<textLine fontSize="31" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			5cl Batida de coco
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			2cl Bacardi Blanca
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			2cl Monin puree Kers
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			15cl Ananassap
+		</textLine>
+		<textLine fontSize="31" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="31" bold="yes">
+			STRAIN IN MASON JAR met crushed ice
+		</textLine>
+		<textLine fontSize="31" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			+ gedroogde ananas + kers + ananasstengel + kokospoeder
+		</textLine>
+	</recipe>
+	<recipe name="CHERRY DAIQUIRI" nr="24" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas voorkoelen
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin puree kers
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			gedroogde limoen + kers
+		</textLine>
+	</recipe>
+	<recipe name="CHERRY CAIPIROSKA" nr="25" fontSize="36" bold="yes">
+		<textLine fontSize="32" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4cl Eristoff wit
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Monin puree kers
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			+ gedroogde limoen + kers + suikerrietstengel
+		</textLine>
+	</recipe>
 </recipes>
