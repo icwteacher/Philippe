@@ -40,6 +40,7 @@
 		<textLine fontSize="33" bold="false">
 			Lang rietje + gedroogde limoen + cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="AMALFI MULE" nr="2" fontSize="60" bold="true">
 		<textLine fontSize="30" bold="true">
 			Mule glas vol ijsblokken
@@ -74,6 +75,7 @@
 		<textLine fontSize="30" bold="false">
 			+ rest flesje bij serveren
 		</textLine>
+	</recipe>
 	<recipe name="AMARETTO ESPRESSO MARTINI" nr="3" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			Zet een espresso
@@ -105,6 +107,7 @@
 		<textLine fontSize="40" bold="false">
 			3 koffiebonen i.h. midden
 		</textLine>
+	</recipe>
 	<recipe name="AMARETTO SOUR" nr="4" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHAKERGLAS VOL IJS
@@ -139,6 +142,7 @@
 		<textLine fontSize="40" bold="false">
 			Cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="AMERICANO" nr="5" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHORT DRINK VOL BLOKKENIJS
@@ -164,6 +168,7 @@
 		<textLine fontSize="40" bold="false">
 			Cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="APEROL SPRITZ" nr="6" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			WIJNGLAS VOL BLOKKENIJS
@@ -189,6 +194,7 @@
 		<textLine fontSize="40" bold="false">
 			Kort rietje
 		</textLine>
+	</recipe>
 	<recipe name="BANANA COLADA" nr="7" fontSize="60" bold="true">
 		<textLine fontSize="32" bold="true">
 			SHAKERGLAS VOL IJS
@@ -226,6 +232,7 @@
 		<textLine fontSize="32" bold="false">
 			+ ananasstengel + 2 schijfjes banaan op prikker + kokospoeder
 		</textLine>
+	</recipe>
 	<recipe name="BANANITO" nr="8" fontSize="72" bold="true">
 		<textLine fontSize="28" bold="false">
 			4 partjes limoen + 1 geut suiker
@@ -278,6 +285,7 @@
 		<textLine fontSize="28" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="BIENVENIDO MOTHERFUCKER" nr="9" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="false">
 			LONGDRINK glas
@@ -318,6 +326,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + gedroogde limoen + cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="BLACK CAIPIRINHA" nr="10" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			BACARDIGLAS
@@ -355,6 +364,7 @@
 		<textLine fontSize="33" bold="false">
 			+ Suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="BLACK CAIPIROSKA" nr="11" fontSize="48" bold="true">
 		<textLine fontSize="30" bold="true">
 			BACARDIGLAS
@@ -398,6 +408,7 @@
 		<textLine fontSize="30" bold="false">
 			+ Suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="BLACK RUSSIAN" nr="12" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			SHORTDRINK halfvol ijsblokken
@@ -420,6 +431,7 @@
 		<textLine fontSize="40" bold="false">
 			3 koffiebonen
 		</textLine>
+	</recipe>
 	<recipe name="BLUEBERRY MOJITO" nr="13" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -475,6 +487,7 @@
 		<textLine fontSize="29" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="BLUEBERRY DAIQUIRI" nr="14" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas voorkoelen
@@ -506,6 +519,7 @@
 		<textLine fontSize="36" bold="false">
 			gedroogde limoen + 2 blauwe bessen
 		</textLine>
+	</recipe>
 	<recipe name="BLUE LAGOON" nr="15" fontSize="52" bold="true">
 		<textLine fontSize="40" bold="true">
 			MASON JAR � crushed ice
@@ -534,6 +548,7 @@
 		<textLine fontSize="40" bold="false">
 			Kort rietje + gedroogde citroen+ cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="CAMPARI SPRITZ" nr="16" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			WIJNGLAS VOL BLOKKENIJS
@@ -559,6 +574,7 @@
 		<textLine fontSize="40" bold="false">
 			Kort rietje
 		</textLine>
+	</recipe>
 	<recipe name="CAFE BRULEE" nr="17" fontSize="60" bold="true">
 		<textLine fontSize="32" bold="false">
 			Tas koffie zetten
@@ -599,6 +615,7 @@
 		<textLine fontSize="32" bold="false">
 			Kort rietje
 		</textLine>
+	</recipe>
 	<recipe name="CAIPIRINHA" nr="18" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="true">
 			BACARDIGLAS
@@ -636,6 +653,7 @@
 		<textLine fontSize="36" bold="false">
 			+ Gedroogde limoen + Rietsuikerstengel
 		</textLine>
+	</recipe>
 	<recipe name="CAIPIROSKA" nr="19" fontSize="60" bold="true">
 		<textLine fontSize="35" bold="true">
 			BACARDIGLAS
@@ -673,6 +691,7 @@
 		<textLine fontSize="35" bold="false">
 			+ gedroogde limoen+ Rietsuikerstengel
 		</textLine>
+	</recipe>
 	<recipe name="CHERRINHA" nr="20" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			BACARDIGLAS
@@ -701,6 +720,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + Gedroogde limoen + 1 kers + Suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="CHERRITO" nr="21" fontSize="36" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -753,6 +773,7 @@
 		<textLine fontSize="28" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="CHERRITA" nr="22" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas rand inwrijven met limoen + zout op rand
@@ -784,6 +805,7 @@
 		<textLine fontSize="36" bold="false">
 			Gedroogde limoen in glas leggen + kers op limoen
 		</textLine>
+	</recipe>
 	<recipe name="CHERRY COLADA" nr="23" fontSize="60" bold="true">
 		<textLine fontSize="31" bold="true">
 			SHAKERGLAS VOL IJS
@@ -815,6 +837,7 @@
 		<textLine fontSize="31" bold="false">
 			+ gedroogde ananas + kers + ananasstengel + kokospoeder
 		</textLine>
+	</recipe>
 	<recipe name="CHERRY DAIQUIRI" nr="24" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas voorkoelen
@@ -843,6 +866,7 @@
 		<textLine fontSize="36" bold="false">
 			gedroogde limoen + kers
 		</textLine>
+	</recipe>
 	<recipe name="CHERRY CAIPIROSKA" nr="25" fontSize="36" bold="true">
 		<textLine fontSize="32" bold="true">
 			BACARDIGLAS
@@ -880,6 +904,7 @@
 		<textLine fontSize="32" bold="false">
 			+ gedroogde limoen + kers + suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="COINTREAUPOLITAN" nr="26" fontSize="52" bold="true">
 		<textLine fontSize="40" bold="false">
 			Martiniglas (ribbels) voorkoelen
@@ -908,6 +933,7 @@
 		<textLine fontSize="40" bold="false">
 			Appelsienzeste (krullen en in glas)
 		</textLine>
+	</recipe>
 	<recipe name="COPA LIMONATA" nr="27" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			G&T GLAS VOL BLOKKENIJS
@@ -936,6 +962,7 @@
 		<textLine fontSize="40" bold="false">
 			Citroenzeste + gedroogde citroen
 		</textLine>
+	</recipe>
 	<recipe name="COSMOPOLITAN" nr="28" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			Martiniglas (ribbels) voorkoelen
@@ -967,6 +994,7 @@
 		<textLine fontSize="40" bold="false">
 			Appelsienzeste (krullen en in glas)
 		</textLine>
+	</recipe>
 	<recipe name="COSMO DE LUX" nr="29" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas (ribbels) voorkoelen
@@ -1001,6 +1029,7 @@
 		<textLine fontSize="36" bold="false">
 			+ appelsienzeste (krullen en in glas)
 		</textLine>
+	</recipe>
 	<recipe name="CUBA LIBRE" nr="30" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			Bacardi glas vol ijsblokken
@@ -1020,6 +1049,7 @@
 		<textLine fontSize="40" bold="false">
 			Limoenpartje
 		</textLine>
+	</recipe>
 	<recipe name="DAIQUIRI" nr="31" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			Martiniglas voorkoelen
@@ -1045,6 +1075,7 @@
 		<textLine fontSize="40" bold="false">
 			+ gedroogde limoen
 		</textLine>
+	</recipe>
 	<recipe name="DARK�N STORMY" nr="32" fontSize="60" bold="true">
 		<textLine fontSize="30" bold="true">
 			LONGDRINK VOL CRUSHED
@@ -1070,6 +1101,7 @@
 		<textLine fontSize="30" bold="false">
 			+ gedroogde limoen
 		</textLine>
+	</recipe>
 	<recipe name="DEAD BY SEX" nr="33" fontSize="48" bold="true">
 		<textLine fontSize="32" bold="true">
 			SHAKERGLAS VOL IJS
@@ -1113,6 +1145,7 @@
 		<textLine fontSize="32" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="ESPRESSO MARTINI" nr="34" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			Zet een espresso
@@ -1144,6 +1177,7 @@
 		<textLine fontSize="40" bold="false">
 			3 koffiebonen i.h. midden
 		</textLine>
+	</recipe>
 	<recipe name="FIDEL CASTRO" nr="35" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHORT DRINK VOL IJSBLOKKEN
@@ -1163,6 +1197,7 @@
 		<textLine fontSize="40" bold="false">
 			Flesje Ginger Ale erbij, NIET uitschenken
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN BAR COPA" nr="36" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas (groen)voorkoelen
@@ -1197,6 +1232,7 @@
 		<textLine fontSize="36" bold="false">
 			Kort rietje + gedroogde limoen + �  aardbei
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN COPA LIMON" nr="37" fontSize="48" bold="true">
 		<textLine fontSize="31" bold="false">
 			Martiniglas (groen) voorkoelen
@@ -1228,6 +1264,7 @@
 		<textLine fontSize="31" bold="false">
 			Kort rietje + gedroogde citroen + 3 mooie muntblaadjes
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN CHERRY DAIQUIRI" nr="38" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas (groen) voorkoelen
@@ -1256,6 +1293,7 @@
 		<textLine fontSize="36" bold="false">
 			Kort rietje + gedroogde limoen + 1 kers
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN CHERRY MARGARITA" nr="39" fontSize="48" bold="true">
 		<textLine fontSize="31" bold="false">
 			Martiniglas (groen) rand inwrijven met limoen + zout op rand
@@ -1293,6 +1331,7 @@
 		<textLine fontSize="31" bold="false">
 			Kort rietje + gedroogde limoen + kers
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN DAIQUIRI" nr="40" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas(groen) voorkoelen
@@ -1321,6 +1360,7 @@
 		<textLine fontSize="36" bold="false">
 			1 kort rietje + gedroogde limoen  +
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN KIWI DAIQUIRI" nr="41" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas voorkoelen
@@ -1355,6 +1395,7 @@
 		<textLine fontSize="36" bold="false">
 			Kort rietje + gedroogde limoen + kontjes kiwi op glas
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN MARGARITA" nr="42" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas (groen) rand inwrijven met limoen + zout op rand
@@ -1386,6 +1427,7 @@
 		<textLine fontSize="36" bold="false">
 			Kort rietje + gedroogde limoen + limoenschijf
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN PASSION DAIQUIRI" nr="43" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas (groen) voorkoelen
@@ -1420,6 +1462,7 @@
 		<textLine fontSize="36" bold="false">
 			1 kort rietje + gedroogde limoen + halve passievrucht
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN PASSION MARGARITA" nr="44" fontSize="48" bold="true">
 		<textLine fontSize="31" bold="false">
 			Martiniglas (groen) rand inwrijven met limoen + zout op rand
@@ -1460,6 +1503,7 @@
 		<textLine fontSize="31" bold="false">
 			Kort rietje + gedroogde limoen + Halve passievrucht
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN RASPBERRY DAIQUIRI" nr="45" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas (groen) voorkoelen
@@ -1491,6 +1535,7 @@
 		<textLine fontSize="36" bold="false">
 			Kort rietje + gedroogde limoen + 1 framboos
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN STRAWBERRY DAIQUIRI" nr="46" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas (groen) voorkoelen
@@ -1528,6 +1573,7 @@
 		<textLine fontSize="36" bold="false">
 			Kort rietje + gedroogde limoen + � aardbei
 		</textLine>
+	</recipe>
 	<recipe name="FROZEN STRAWBERRY MARGARITA" nr="47" fontSize="48" bold="true">
 		<textLine fontSize="31" bold="false">
 			Martiniglas (groen) rand inwrijven met limoen + zout op rand
@@ -1568,6 +1614,7 @@
 		<textLine fontSize="31" bold="false">
 			Kort rietje + gedroogde limoen + � � aardbei
 		</textLine>
+	</recipe>
 	<recipe name="GIN SOUR" nr="48" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHAKERGLAS VOL IJS
@@ -1602,6 +1649,7 @@
 		<textLine fontSize="40" bold="false">
 			+ Cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="KIWI COLADA" nr="49" fontSize="60" bold="true">
 		<textLine fontSize="30" bold="true">
 			SHAKERGLAS VOL IJS
@@ -1636,6 +1684,7 @@
 		<textLine fontSize="30" bold="false">
 			+ kontjes kiwi+ Gedroogde ananas + + ananasstengel + kokospoeder erover
 		</textLine>
+	</recipe>
 	<recipe name="KIWI COOL" nr="50" fontSize="60" bold="true">
 		<textLine fontSize="31" bold="true">
 			LONGDRINK GLAS
@@ -1679,6 +1728,7 @@
 		<textLine fontSize="31" bold="false">
 			+ kontjes v.d. kiwi op glas
 		</textLine>
+	</recipe>
 	<recipe name="KIWI DAIQUIRI" nr="51" fontSize="60" bold="true">
 		<textLine fontSize="38" bold="false">
 			Martiniglas voorkoelen
@@ -1713,6 +1763,7 @@
 		<textLine fontSize="38" bold="false">
 			kiwikontjes op glas
 		</textLine>
+	</recipe>
 	<recipe name="KIWITO" nr="52" fontSize="36" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -1771,6 +1822,7 @@
 		<textLine fontSize="28" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="LA BOMBA" nr="53" fontSize="60" bold="true">
 		<textLine fontSize="33" bold="true">
 			SHAKER VOL IJS
@@ -1808,6 +1860,7 @@
 		<textLine fontSize="33" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="LAZY RED CHEEKS" nr="54" fontSize="60" bold="true">
 		<textLine fontSize="33" bold="true">
 			SHORT DRINK
@@ -1842,6 +1895,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + Munttopje + Framboos + bloemsuiker
 		</textLine>
+	</recipe>
 	<recipe name="LEAN HOMBRE" nr="55" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			LONGDRINK VOL BLOKKENIJS
@@ -1870,6 +1924,7 @@
 		<textLine fontSize="40" bold="false">
 			Lang rietje
 		</textLine>
+	</recipe>
 	<recipe name="LIMONCELLO SPRITZ" nr="56" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			WIJNGLAS VOL BLOKKENIJS
@@ -1895,6 +1950,7 @@
 		<textLine fontSize="40" bold="false">
 			Kort rietje
 		</textLine>
+	</recipe>
 	<recipe name="LIMONCELLO SOUR" nr="57" fontSize="60" bold="true">
 		<textLine fontSize="32" bold="true">
 			SHAKERGLAS VOL IJS
@@ -1929,6 +1985,7 @@
 		<textLine fontSize="32" bold="false">
 			Cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="LONG ISLAND ICE-TEA" nr="58" fontSize="60" bold="true">
 		<textLine fontSize="33" bold="true">
 			LONGDRINK glas
@@ -1969,6 +2026,7 @@
 		<textLine fontSize="33" bold="false">
 			Lang rietje + Gedroogde limoen + limoenschijf
 		</textLine>
+	</recipe>
 	<recipe name="LYNCHBUG ICE-TEA" nr="59" fontSize="60" bold="true">
 		<textLine fontSize="36" bold="true">
 			LONGDRINK glas
@@ -2006,6 +2064,7 @@
 		<textLine fontSize="36" bold="false">
 			Lang rietje + Gedroogde limoen
 		</textLine>
+	</recipe>
 	<recipe name="MAI TAI" nr="60" fontSize="60" bold="true">
 		<textLine fontSize="34" bold="true">
 			SHAKERGLAS VOL IJS
@@ -2046,6 +2105,7 @@
 		<textLine fontSize="34" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="MARGARITA" nr="61" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas rand inwrijven met limoen + zout op rand
@@ -2074,6 +2134,7 @@
 		<textLine fontSize="36" bold="false">
 			Gedroogde limoen in glas leggen
 		</textLine>
+	</recipe>
 	<recipe name="MAS-TERPIECE" nr="62" fontSize="60" bold="true">
 		<textLine fontSize="36" bold="true">
 			G&T GLAS VOL IJSBLOKKEN
@@ -2108,6 +2169,7 @@
 		<textLine fontSize="36" bold="false">
 			Gedroogde citroen + Antwerps handje op rand glas leggen
 		</textLine>
+	</recipe>
 	<recipe name="MARTINI BIANCO ROYAL" nr="63" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			MARTINI GLAS VOL IJSBLOKKEN
@@ -2130,6 +2192,7 @@
 		<textLine fontSize="40" bold="false">
 			Gedroogde limoen + munttopje
 		</textLine>
+	</recipe>
 	<recipe name="MARTINI FIERO & TONIC" nr="64" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			MARTINI GLAS VOL IJSBLOKKEN
@@ -2149,6 +2212,7 @@
 		<textLine fontSize="40" bold="false">
 			Gedroogde limoen + Appelsienzeste
 		</textLine>
+	</recipe>
 	<recipe name="MARTINI ROSATO ROYAL" nr="65" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			MARTINI GLAS VOL IJSBLOKKEN
@@ -2171,6 +2235,7 @@
 		<textLine fontSize="40" bold="false">
 			appelsienschijf
 		</textLine>
+	</recipe>
 	<recipe name="MEZCAL SOUR" nr="66" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHAKERGLAS VOL IJS
@@ -2205,6 +2270,7 @@
 		<textLine fontSize="40" bold="false">
 			+ Cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="MOJITO" nr="67" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -2257,6 +2323,7 @@
 		<textLine fontSize="28" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="MEXICAN MULE" nr="68" fontSize="60" bold="true">
 		<textLine fontSize="37" bold="true">
 			Mule glas vol ijsblokken
@@ -2288,6 +2355,7 @@
 		<textLine fontSize="37" bold="false">
 			+ rest flesje bij serveren
 		</textLine>
+	</recipe>
 	<recipe name="MOSCOW MULE" nr="69" fontSize="60" bold="true">
 		<textLine fontSize="37" bold="true">
 			Mule glas vol BLOKKENIJS
@@ -2319,6 +2387,7 @@
 		<textLine fontSize="37" bold="false">
 			+ rest flesje bij serveren
 		</textLine>
+	</recipe>
 	<recipe name="NEW YORK SOUR" nr="70" fontSize="60" bold="true">
 		<textLine fontSize="36" bold="true">
 			SHAKERGLAS VOL BLOKKENIJS
@@ -2353,6 +2422,7 @@
 		<textLine fontSize="36" bold="false">
 			Gedroogde citroen + kers
 		</textLine>
+	</recipe>
 	<recipe name="NEGRONI" nr="71" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHORT DRINK VOL BLOKKENIJS
@@ -2375,6 +2445,7 @@
 		<textLine fontSize="40" bold="false">
 			Gedroogde appelsien + kers
 		</textLine>
+	</recipe>
 	<recipe name="OLD FASHIONED" nr="72" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHORT DRINK VOL IJS
@@ -2397,6 +2468,7 @@
 		<textLine fontSize="40" bold="false">
 			Appelsienzeste (boven glas maken) + cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="PASSION COLADA" nr="73" fontSize="60" bold="true">
 		<textLine fontSize="31" bold="true">
 			SHAKERGLAS VOL IJS
@@ -2434,6 +2506,7 @@
 		<textLine fontSize="31" bold="false">
 			+ gedroogde ananas + ananasstengel + kokospoeder erover
 		</textLine>
+	</recipe>
 	<recipe name="PASSION DAIQUIRI" nr="74" fontSize="60" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas voorkoelen
@@ -2468,6 +2541,7 @@
 		<textLine fontSize="36" bold="false">
 			Kontje passievrucht
 		</textLine>
+	</recipe>
 	<recipe name="PASSIONJITO" nr="75" fontSize="36" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -2526,6 +2600,7 @@
 		<textLine fontSize="28" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="PASSION CAIPIRINHA" nr="76" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			BACARDIGLAS
@@ -2557,6 +2632,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + Gedroogde limoen + kontje passievrucht + Suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="PASSION CAIPIROSKA" nr="77" fontSize="48" bold="true">
 		<textLine fontSize="32" bold="true">
 			BACARDIGLAS
@@ -2600,6 +2676,7 @@
 		<textLine fontSize="32" bold="false">
 			+ gedroogde limoen + Kontje passievrucht + suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="PASSIORITA" nr="78" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas rand inwrijven met limoen + zout op rand
@@ -2637,6 +2714,7 @@
 		<textLine fontSize="36" bold="false">
 			Kontje passievrucht in glas
 		</textLine>
+	</recipe>
 	<recipe name="RAZZJITO" nr="79" fontSize="44" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -2689,6 +2767,7 @@
 		<textLine fontSize="29" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="RAZZITA" nr="80" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas rand inwrijven met limoen + zout op rand
@@ -2726,6 +2805,7 @@
 		<textLine fontSize="36" bold="false">
 			Gedroogde limoen in glas leggen + framboos op limoen
 		</textLine>
+	</recipe>
 	<recipe name="RITA NEGRA" nr="81" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas rand inwrijven met limoen + zout op rand
@@ -2760,6 +2840,7 @@
 		<textLine fontSize="36" bold="false">
 			Gedroogde limoen in glas leggen + blauwe bes op limoen
 		</textLine>
+	</recipe>
 	<recipe name="PINA COLADA" nr="82" fontSize="60" bold="true">
 		<textLine fontSize="36" bold="true">
 			SHAKERGLAS VOL IJS
@@ -2788,6 +2869,7 @@
 		<textLine fontSize="36" bold="false">
 			+ gedroogde ananas + ananasstengel + kokospoeder
 		</textLine>
+	</recipe>
 	<recipe name="PORNSTAR MARTINI" nr="83" fontSize="48" bold="true">
 		<textLine fontSize="32" bold="true">
 			Martiniglas (pornstar) voorkoelen
@@ -2828,6 +2910,7 @@
 		<textLine fontSize="32" bold="false">
 			Serveren met shot cava bij (glaasje niet volledig vol)
 		</textLine>
+	</recipe>
 	<recipe name="PORNSTAR SPRITZ" nr="84" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			WIJNGLAS VOL IJS
@@ -2859,6 +2942,7 @@
 		<textLine fontSize="40" bold="false">
 			Appelsienschijf
 		</textLine>
+	</recipe>
 	<recipe name="QUICKIE AT SUNSET" nr="85" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="true">
 			LONGDRINK met crushed ice
@@ -2893,6 +2977,7 @@
 		<textLine fontSize="36" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="RASPBERINHA" nr="86" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			BACARDIGLAS
@@ -2924,6 +3009,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + Gedroogde limoen + 1 Framboos + Suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="RASPBERRY COLADA" nr="87" fontSize="60" bold="true">
 		<textLine fontSize="31" bold="true">
 			SHAKERGLAS VOL IJS
@@ -2955,6 +3041,7 @@
 		<textLine fontSize="31" bold="false">
 			+ gedroogde ananas + framboos + ananasstengel + kokospoeder
 		</textLine>
+	</recipe>
 	<recipe name="RASPBERRY DAIQUIRI" nr="88" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas voorkoelen
@@ -2989,6 +3076,7 @@
 		<textLine fontSize="36" bold="false">
 			gedroogde limoen + framboos
 		</textLine>
+	</recipe>
 	<recipe name="SANGRIA" nr="89" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			G&T GLAS
@@ -3014,6 +3102,7 @@
 		<textLine fontSize="40" bold="false">
 			Kort rietje
 		</textLine>
+	</recipe>
 	<recipe name="SCHELDE SPRITZ" nr="90" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			G&T GLAS VOL BLOKKENIJS
@@ -3039,6 +3128,7 @@
 		<textLine fontSize="40" bold="false">
 			Kort rietje + Antwerps handje op het glas
 		</textLine>
+	</recipe>
 	<recipe name="SKINNY BITCH" nr="91" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			LONGDRINK VOL BLOKKENIJS
@@ -3064,6 +3154,7 @@
 		<textLine fontSize="40" bold="false">
 			Lang rietje
 		</textLine>
+	</recipe>
 	<recipe name="SLIM SENORITA" nr="92" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			LONGDRINK VOL BLOKKENIJS
@@ -3089,6 +3180,7 @@
 		<textLine fontSize="40" bold="false">
 			Lang rietje
 		</textLine>
+	</recipe>
 	<recipe name="SEX IN DE COPA" nr="93" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="true">
 			SHAKER VOL BLOKKENIJS
@@ -3129,6 +3221,7 @@
 		<textLine fontSize="36" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="SEX IN THE SHOWER" nr="94" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="true">
 			MASON JAR 1/2 CRUSHED
@@ -3166,6 +3259,7 @@
 		<textLine fontSize="36" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="SEX IN�T STAD" nr="95" fontSize="60" bold="true">
 		<textLine fontSize="32" bold="true">
 			SHAKER VOL IJS
@@ -3203,6 +3297,7 @@
 		<textLine fontSize="32" bold="false">
 			+ gedroogde appelsien + ananasstengel + Antwerps handje (op de rand leggen) + bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="SEX ON THE BEACH" nr="96" fontSize="48" bold="true">
 		<textLine fontSize="32" bold="true">
 			SHAKERGLAS VOL IJS
@@ -3243,6 +3338,7 @@
 		<textLine fontSize="32" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="SEX WITH YOU" nr="97" fontSize="60" bold="true">
 		<textLine fontSize="30" bold="true">
 			SHAKER VOL IJS
@@ -3283,6 +3379,7 @@
 		<textLine fontSize="30" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="SHARK ATTACK" nr="98" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			MASON JAR VOL CRUSHED ICE
@@ -3314,6 +3411,7 @@
 		<textLine fontSize="40" bold="false">
 			+ haai met grenadine in (NIET teveel, enkel bodem)
 		</textLine>
+	</recipe>
 	<recipe name="SPICY GIN MULE" nr="99" fontSize="60" bold="true">
 		<textLine fontSize="30" bold="true">
 			SHAKER VOL IJSBLOKKEN
@@ -3354,6 +3452,7 @@
 		<textLine fontSize="30" bold="false">
 			+ 1 Jalapeno
 		</textLine>
+	</recipe>
 	<recipe name="STRAWBERRY MARGARITA" nr="100" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas rand inwrijven met limoen + zout op rand
@@ -3388,6 +3487,7 @@
 		<textLine fontSize="36" bold="false">
 			Gedroogde limoen in glas leggen + � aardbei
 		</textLine>
+	</recipe>
 	<recipe name="STRAWBERRY CAIPIRINHA" nr="101" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			BACARDIGLAS
@@ -3419,6 +3519,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + Gedroogde limoen + �  aardbei + Suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="STRAWBERRY CAIPIROSKA" nr="102" fontSize="36" bold="true">
 		<textLine fontSize="32" bold="true">
 			BACARDIGLAS
@@ -3462,6 +3563,7 @@
 		<textLine fontSize="32" bold="false">
 			+ gedroogde limoen + � Aardbei + suikerrietstengel
 		</textLine>
+	</recipe>
 	<recipe name="STRAWBERRY COLADA" nr="103" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="true">
 			SHAKERGLAS VOL IJS
@@ -3493,6 +3595,7 @@
 		<textLine fontSize="36" bold="false">
 			+ � aardbei + gedroogde ananas + ananasstengel + kokospoeder erover
 		</textLine>
+	</recipe>
 	<recipe name="STRAWBERRY DAIQUIRI" nr="104" fontSize="48" bold="true">
 		<textLine fontSize="36" bold="false">
 			Martiniglas voorkoelen
@@ -3527,6 +3630,7 @@
 		<textLine fontSize="36" bold="false">
 			gedroogde limoen + � aardbei
 		</textLine>
+	</recipe>
 	<recipe name="STRAWBERRY LONG ISLAND ICE TEA" nr="105" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			Longdrink glas
@@ -3573,6 +3677,7 @@
 		<textLine fontSize="33" bold="false">
 			+ � aardbei
 		</textLine>
+	</recipe>
 	<recipe name="STRAWBERRY MOJITO" nr="106" fontSize="36" bold="true">
 		<textLine fontSize="29" bold="true">
 			BACARDIGLAS
@@ -3625,6 +3730,7 @@
 		<textLine fontSize="29" bold="false">
 			bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="SWEET GOLD" nr="107" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			SHAKER VOL BLOKKENIJS
@@ -3656,6 +3762,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + gedroogde limoen + 2 stukjes banaan op prikker
 		</textLine>
+	</recipe>
 	<recipe name="TEQUILA SUNRISE" nr="108" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			TIKI GLAS vullen met crushed ice
@@ -3684,6 +3791,7 @@
 		<textLine fontSize="40" bold="false">
 			+ Gedroogde appelsien + Cocktailkers
 		</textLine>
+	</recipe>
 	<recipe name="TINTO DE VERANO" nr="109" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			G&T GLAS
@@ -3697,6 +3805,7 @@
 		<textLine fontSize="40" bold="false">
 			Vullen met Tinto de verano
 		</textLine>
+	</recipe>
 	<recipe name="WHISKEY SOUR" nr="110" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			SHAKERGLAS VOL IJS
@@ -3728,6 +3837,7 @@
 		<textLine fontSize="40" bold="false">
 			Cocktailkers + Gedroogde citroen
 		</textLine>
+	</recipe>
 	<recipe name="WHITE RUSSIAN" nr="111" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			SHORTDRINK
@@ -3747,6 +3857,7 @@
 		<textLine fontSize="40" bold="true">
 			NIET STIRREN !
 		</textLine>
+	</recipe>
 	<recipe name="SPICY BUT SOBER MULE" nr="112" fontSize="60" bold="true">
 		<textLine fontSize="30" bold="true">
 			SHAKER VOL IJSBLOKKEN
@@ -3787,6 +3898,7 @@
 		<textLine fontSize="30" bold="false">
 			+ 1 Jalapeno
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN LAZY RED CHEEKS" nr="113" fontSize="60" bold="true">
 		<textLine fontSize="33" bold="true">
 			SHORT DRINK
@@ -3821,6 +3933,7 @@
 		<textLine fontSize="33" bold="false">
 			Kort rietje + Munttopje + Framboos + bloemsuiker
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN MOJITO" nr="114" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -3870,6 +3983,7 @@
 		<textLine fontSize="28" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN STRAWBERRY MOJITO" nr="115" fontSize="36" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -3925,6 +4039,7 @@
 		<textLine fontSize="26" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN KIWITO" nr="116" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -3980,6 +4095,7 @@
 		<textLine fontSize="26" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN BANANITO" nr="117" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -4035,6 +4151,7 @@
 		<textLine fontSize="27" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN CHERRITO" nr="118" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -4087,6 +4204,7 @@
 		<textLine fontSize="26" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN PASSIONJITO" nr="119" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -4142,6 +4260,7 @@
 		<textLine fontSize="26" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN BLUEBERRY MOJITO" nr="120" fontSize="36" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -4197,6 +4316,7 @@
 		<textLine fontSize="28" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN RAZZJITO" nr="121" fontSize="48" bold="true">
 		<textLine fontSize="28" bold="true">
 			BACARDIGLAS
@@ -4252,6 +4372,7 @@
 		<textLine fontSize="26" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN MOSCOW MULE" nr="122" fontSize="48" bold="true">
 		<textLine fontSize="37" bold="true">
 			Mule glas vol ijsblokken
@@ -4283,6 +4404,7 @@
 		<textLine fontSize="37" bold="false">
 			+ rest flesje bij serveren
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN NYMPHO" nr="123" fontSize="60" bold="true">
 		<textLine fontSize="32" bold="true">
 			Martini (pornstar) glas voorkoelen
@@ -4320,6 +4442,7 @@
 		<textLine fontSize="" bold="false">
 			Kontje passievrucht in glas
 		</textLine>
+	</recipe>
 	<recipe name="SAFE SEX ON THE BEACH" nr="124" fontSize="48" bold="true">
 		<textLine fontSize="33" bold="true">
 			MASON JAR 1/2 crushed ice
@@ -4354,6 +4477,7 @@
 		<textLine fontSize="33" bold="false">
 			Bloemsuiker erover
 		</textLine>
+	</recipe>
 	<recipe name="VIRGIN SANGRIA" nr="125" fontSize="60" bold="true">
 		<textLine fontSize="37" bold="true">
 			G&T-glas
@@ -4373,6 +4497,7 @@
 		<textLine fontSize="37" bold="false">
 			Lange lepel erin + kort rietje
 		</textLine>
+	</recipe>
 	<recipe name="ICED COFFEE" nr="126" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			1 tas koffie zetten
@@ -4404,6 +4529,7 @@
 		<textLine fontSize="40" bold="false">
 			+ 3 koffiebonen
 		</textLine>
+	</recipe>
 	<recipe name="BAR COPA" nr="127" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4429,6 +4555,7 @@
 		<textLine fontSize="40" bold="false">
 			20cl Cranberry
 		</textLine>
+	</recipe>
 	<recipe name="BLACKOUT" nr="128" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4448,6 +4575,7 @@
 		<textLine fontSize="40" bold="false">
 			Flesje Fanta
 		</textLine>
+	</recipe>
 	<recipe name="BLUE LAGOON" nr="129" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4464,6 +4592,7 @@
 		<textLine fontSize="40" bold="false">
 			Flesje Sprite
 		</textLine>
+	</recipe>
 	<recipe name="KIWI BREEZE" nr="130" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4480,6 +4609,7 @@
 		<textLine fontSize="40" bold="false">
 			Aanvullen met ananassap
 		</textLine>
+	</recipe>
 	<recipe name="LEMON LADY" nr="131" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4499,6 +4629,7 @@
 		<textLine fontSize="40" bold="false">
 			Flesje sprite
 		</textLine>
+	</recipe>
 	<recipe name="LONG ISLAND ICE-TEA" nr="132" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4527,6 +4658,7 @@
 		<textLine fontSize="40" bold="false">
 			Limoenpartje in shaker uitpersen en ingooien
 		</textLine>
+	</recipe>
 	<recipe name="RED SAPPHIRE" nr="133" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4546,6 +4678,7 @@
 		<textLine fontSize="40" bold="false">
 			Flesje Sprite
 		</textLine>
+	</recipe>
 	<recipe name="TROPICAL STORM" nr="134" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			PLASTIC SHAKER VOL IJS
@@ -4565,6 +4698,7 @@
 		<textLine fontSize="40" bold="false">
 			3cl Grenadine
 		</textLine>
+	</recipe>
 	<recipe name="BAR COPA" nr="135" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			1/3 Bacardi Reserva
@@ -4575,6 +4709,7 @@
 		<textLine fontSize="40" bold="false">
 			1/3 Amaretto
 		</textLine>
+	</recipe>
 	<recipe name="BABY GUINNESS" nr="136" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			In laagjes schenken met barlepel
@@ -4585,6 +4720,7 @@
 		<textLine fontSize="40" bold="false">
 			1/3 Baileys
 		</textLine>
+	</recipe>
 	<recipe name="BABY KIWI BREEZE" nr="137" fontSize="48" bold="true">
 		<textLine fontSize="40" bold="false">
 			2/3 Eristoff wit
@@ -4592,6 +4728,7 @@
 		<textLine fontSize="40" bold="false">
 			1/3 De Kuyper Kiwi
 		</textLine>
+	</recipe>
 	<recipe name="BLUE THRILL" nr="138" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			1 glaasje Blue Cura�ao
@@ -4599,6 +4736,7 @@
 		<textLine fontSize="40" bold="false">
 			1 glaasje Pulco Citroen
 		</textLine>
+	</recipe>
 	<recipe name="BLOWJOB" nr="139" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			In laagjes schenken met barlepel
@@ -4612,6 +4750,7 @@
 		<textLine fontSize="40" bold="false">
 			Slagroom bovenop
 		</textLine>
+	</recipe>
 	<recipe name="BLOWJOB IN�T STAD" nr="140" fontSize="48" bold="true">
 		<textLine fontSize="40" bold="true">
 			In laagjes schenken met barlepel
@@ -4625,6 +4764,7 @@
 		<textLine fontSize="40" bold="false">
 			Slagroom bovenop
 		</textLine>
+	</recipe>
 	<recipe name="ORGASM" nr="141" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="true">
 			In laagjes schenken met barlepel
@@ -4638,6 +4778,7 @@
 		<textLine fontSize="40" bold="false">
 			1/3 Amaretto
 		</textLine>
+	</recipe>
 	<recipe name="B-52" nr="142" fontSize="57" bold="true">
 		<textLine fontSize="40" bold="true">
 			In laagjes schenken met barlepel
@@ -4654,6 +4795,7 @@
 		<textLine fontSize="40" bold="true">
 			Evt. In brand steken en met kort rietje serveren
 		</textLine>
+	</recipe>
 	<recipe name="PUSSY" nr="143" fontSize="55" bold="true">
 		<textLine fontSize="40" bold="true">
 			In laagjes schenken met barlepel
@@ -4667,6 +4809,7 @@
 		<textLine fontSize="40" bold="false">
 			1/3 Cranberrysap
 		</textLine>
+	</recipe>
 	<recipe name="MOTHERFUCKER" nr="144" fontSize="55" bold="true">
 		<textLine fontSize="40" bold="false">
 			2/3 Vodka
@@ -4674,6 +4817,7 @@
 		<textLine fontSize="40" bold="false">
 			1/3 Aardbeilikeur
 		</textLine>
+	</recipe>
 	<recipe name="TEQUILA" nr="145" fontSize="55" bold="true">
 		<textLine fontSize="40" bold="false">
 			Shot tequila
@@ -4684,6 +4828,7 @@
 		<textLine fontSize="40" bold="false">
 			Zoutvat erbij
 		</textLine>
+	</recipe>
 	<recipe name="FIRE ON THE PRAIRIE" nr="146" fontSize="55" bold="true">
 		<textLine fontSize="40" bold="false">
 			Tequila
@@ -4691,6 +4836,7 @@
 		<textLine fontSize="40" bold="false">
 			Goede scheut Tabasco
 		</textLine>
+	</recipe>
 	<recipe name="FRENCH KISS" nr="147" fontSize="55" bold="true">
 		<textLine fontSize="40" bold="true">
 			In laagjes schenken met barlepel
@@ -4704,6 +4850,7 @@
 		<textLine fontSize="40" bold="false">
 			1/3 Triple Sec
 		</textLine>
+	</recipe>
 	<recipe name="JACK-KAHLUA" nr="148" fontSize="55" bold="true">
 		<textLine fontSize="40" bold="false">
 			1/3 Jack Daniel�s
@@ -4711,6 +4858,7 @@
 		<textLine fontSize="40" bold="false">
 			2/3 Kahlua
 		</textLine>
+	</recipe>
 	<recipe name="KAMIKAZE" nr="149" fontSize="55" bold="true">
 		<textLine fontSize="40" bold="false">
 			2/3 Eristoff wit
@@ -4721,6 +4869,7 @@
 		<textLine fontSize="40" bold="false">
 			Scheutje Pulco Citroen
 		</textLine>
+	</recipe>
 	<recipe name="KILLA THRILL" nr="150" fontSize="53" bold="true">
 		<textLine fontSize="40" bold="false">
 			� Bols Vanilla
@@ -4731,6 +4880,7 @@
 		<textLine fontSize="40" bold="false">
 			1 glaasje Pulco Citroen
 		</textLine>
+	</recipe>
 	<recipe name="MAD DOG" nr="151" fontSize="53" bold="true">
 		<textLine fontSize="40" bold="false">
 			1/3 Grenadine
@@ -4741,6 +4891,7 @@
 		<textLine fontSize="40" bold="false">
 			3 druppels tabasco
 		</textLine>
+	</recipe>
 	<recipe name="CAPPUCCINO" nr="152" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			Koffie zetten in thee tas
@@ -4748,6 +4899,7 @@
 		<textLine fontSize="40" bold="false">
 			Toppen met slagroom
 		</textLine>
+	</recipe>
 	<recipe name="CHOCOCHINO" nr="153" fontSize="60" bold="true">
 		<textLine fontSize="40" bold="false">
 			Thee tas vullen met chocomelk
@@ -4758,6 +4910,7 @@
 		<textLine fontSize="40" bold="false">
 			Toppen met slagroom
 		</textLine>
+	</recipe>
 	<recipe name="Bombay Dry" nr="154" fontSize="60" bold="true">
 		<textLine fontSize="37" bold="true">
 			Gin Glas vol blokken ijs
@@ -4774,6 +4927,7 @@
 		<textLine fontSize="37" bold="true">
 			FT Tonic erbij (niet uitgieten)
 		</textLine>
+	</recipe>
 	<recipe name="Bulls nr509 Rasberry" nr="155" fontSize="60" bold="true">
 		<textLine fontSize="37" bold="true">
 			Gin Glas vol blokken ijs
@@ -4790,6 +4944,7 @@
 		<textLine fontSize="37" bold="true">
 			FT Medi erbij (niet uitgieten)
 		</textLine>
+	</recipe>
 	<recipe name="Gin Mare" nr="156" fontSize="60" bold="true">
 		<textLine fontSize="37" bold="true">
 			Gin Glas vol blokken ijs
@@ -4806,6 +4961,7 @@
 		<textLine fontSize="37" bold="true">
 			FT Medi erbij (niet uitgieten)
 		</textLine>
+	</recipe>
 	<recipe name="Gin 0.0" nr="157" fontSize="60" bold="true">
 		<textLine fontSize="37" bold="true">
 			Gin Glas vol blokken ijs
