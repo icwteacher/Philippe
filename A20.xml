@@ -3520,4 +3520,801 @@
 			Kort rietje + Gedroogde limoen + �  aardbei + Suikerrietstengel
 		</textLine>
 	</recipe>
+	<recipe name="STRAWBERRY CAIPIROSKA" nr="102" fontSize="36" bold="yes">
+		<textLine fontSize="32" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			1 aardbeien
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4cl Eristoff wit
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Aardbeilikeur
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Monin puree aardbei
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			+ gedroogde limoen + � Aardbei + suikerrietstengel
+		</textLine>
+	</recipe>
+	<recipe name="STRAWBERRY COLADA" nr="103" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Batida de coco
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Aardbeilikeur
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin puree aardbei
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			15cl Ananassap
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MASON JAR met crushed ice
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			+ � aardbei + gedroogde ananas + ananasstengel + kokospoeder erover
+		</textLine>
+	</recipe>
+	<recipe name="STRAWBERRY DAIQUIRI" nr="104" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas voorkoelen
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Aardbei muddlen in shakerglas
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Aardbeilikeur
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin puree aardbei
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			gedroogde limoen + � aardbei
+		</textLine>
+	</recipe>
+	<recipe name="STRAWBERRY LONG ISLAND ICE TEA" nr="105" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			Longdrink glas
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Eristoff wit
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Bacardi carta blanca
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Bombay Dry
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl aardbeilikeur
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Monin puree aardbei
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Aanvullen met cola
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Lang rietje
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			+ gedroogde limoen
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			+ � aardbei
+		</textLine>
+	</recipe>
+	<recipe name="STRAWBERRY MOJITO" nr="106" fontSize="36" bold="yes">
+		<textLine fontSize="29" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			4 partjes limoen + aardbei
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			5cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			2cl aardbeilikeur
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			2cl Monin puree aardbei
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			7 cl Limoensapmix
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Scheutje spuitwater
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Kort rietje + munttopje + Gedroogde limoen + � aardbei + suikerrietstengel
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="SWEET GOLD" nr="107" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			SHAKER VOL BLOKKENIJS
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl Bacardi Oro
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Bols Banana
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			7cl limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			8 Blaadjes munt
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2 stukjes banana
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			SHAKE
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			STRAIN IN SHORTDRINK vol crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + gedroogde limoen + 2 stukjes banaan op prikker
+		</textLine>
+	</recipe>
+	<recipe name="TEQUILA SUNRISE" nr="108" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			TIKI GLAS vullen met crushed ice
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			5cl Tequila
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			15cl Sinaassap
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			1cl grenadine overgieten
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			+ Gedroogde appelsien + Cocktailkers
+		</textLine>
+	</recipe>
+	<recipe name="TINTO DE VERANO" nr="109" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			G&amp;T GLAS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Citroenschijf en sinaasschijf erin
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Verder vullen met blokkenijs
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Vullen met Tinto de verano
+		</textLine>
+	</recipe>
+	<recipe name="WHISKEY SOUR" nr="110" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			5cl Jack Daniels
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			2cl Pulco Citroen
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			2cl Suiker
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4 druppels eiwitvervanger
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STRAIN IN SHORT DRINK
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			MET ENKELE IJSBLOKKEN
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Cocktailkers + Gedroogde citroen
+		</textLine>
+	</recipe>
+	<recipe name="WHITE RUSSIAN" nr="111" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="no">
+			SHORTDRINK
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Vullen met blokken ijs
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			5cl Kahlua
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			2cl Eristoff wit
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			3cl Melk rustig bovenop gieten
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			NIET STIRREN !
+		</textLine>
+	</recipe>
+	<recipe name="SPICY BUT SOBER MULE" nr="112" fontSize="60" bold="yes">
+		<textLine fontSize="30" bold="yes">
+			SHAKER VOL IJSBLOKKEN
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			2 jalapeno�s
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			4 muntblaadjes
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			5cl Gin 0,0
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			1x barspoon jalapenos sap
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			6cl Limoensapmix
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			Mule glas vol ijsblokken
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			DOUBLE STRAIN
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Fever Tree Ginger Beer voor de helft uitgieten
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			STIR ZACHT
+		</textLine>
+		<textLine fontSize="30" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			Kort rietje + gedroogde limoen
+		</textLine>
+		<textLine fontSize="30" bold="no">
+			+ 1 Jalapeno
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN LAZY RED CHEEKS" nr="113" fontSize="60" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			SHORT DRINK
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2 frambozen muddlen in glas
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			CRUSHED ICE
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Monin puree framboos
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Violetsiroop
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			4cl limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Vullen met crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			6cl Bruiswater
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + Munttopje + Framboos + bloemsuiker
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN MOJITO" nr="114" fontSize="48" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Aanvullen met Canada Dry
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			+ gedroogde limoen + suikerrietstengel
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN STRAWBERRY MOJITO" nr="115" fontSize="36" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			+ 1 aardbei
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			2cl Monin puree aarbei
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Scheutje Canada Dry
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			+ gedroogde limoen + � aardbei + suikerrietstengel
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN KIWITO" nr="116" fontSize="48" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 kiwi schillen en in glas, �kontjes� bijhouden
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			2cl Monin puree kiwi
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Scheutje Canada Dry
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			+ limoenpartje + kontjes kiwi + suikerrietstengel
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN BANANITO" nr="117" fontSize="48" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			3 schijfjes banaan in schijfjes
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="27" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="27" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			1 Dash Angostura bitters
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			2cl Monin Banaansiroop
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="27" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			Scheutje Canada Dry
+		</textLine>
+		<textLine fontSize="27" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			+ gedroogde limoen + 2 schijfjes banaan + suikerrietstengel
+		</textLine>
+		<textLine fontSize="27" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN CHERRITO" nr="118" fontSize="48" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			2cl Monin puree kers
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Scheutje Canada Dry
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			+ gedroogde limoen + kers + suikerrietstengel
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN PASSIONJITO" nr="119" fontSize="48" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Kontje passievrucht afsnijden. Vrucht uitlepelen in glas
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			2cl Monin puree passie
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Scheutje Canada Dry
+		</textLine>
+		<textLine fontSize="26" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			+ gedroogde limoen + kontje passievrucht + Suikerrietstengel
+		</textLine>
+		<textLine fontSize="26" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="VIRGIN BLUEBERRY MOJITO" nr="120" fontSize="36" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			2 blauwe bessen
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			1 geut suiker
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			1 dash Angostura bitters
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			2cl Monin Puree bosbessen
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			10cl Limoensapmix
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Scheutje Canada Dry
+		</textLine>
+		<textLine fontSize="28" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Kort rietje + munttopje
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			+ gedroogde limoen + 3 blauwe bessen + suikerrietstengel
+		</textLine>
+		<textLine fontSize="28" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
 </recipes>
