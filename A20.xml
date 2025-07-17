@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<recipes>
 	<recipe name="ADIOS MOTHERFUCKER" nr="1" fontSize="60" bold="yes">
 		<textLine fontSize="33" bold="no">
 			Longdrink glas
@@ -2027,7 +2026,7 @@
 			Lang rietje + Gedroogde limoen + limoenschijf
 		</textLine>
 	</recipe>
-	<recipe name="LYNCHBUG ICE-TEA" nr="59" fontSize="60" bold="yes">
+	<recipe name="LYNCHBUG ICED-TEA" nr="59" fontSize="60" bold="yes">
 		<textLine fontSize="36" bold="yes">
 			LONGDRINK glas
 		</textLine>
@@ -4630,7 +4629,7 @@
 			Flesje sprite
 		</textLine>
 	</recipe>
-	<recipe name="LONG ISLAND ICE-TEA" nr="132" fontSize="60" bold="yes">
+	<recipe name="LONG ISLAND ICED TEA" nr="132" fontSize="60" bold="yes">
 		<textLine fontSize="40" bold="yes">
 			PLASTIC SHAKER VOL IJS
 		</textLine>
