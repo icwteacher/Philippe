@@ -2870,4 +2870,237 @@
 			+ gedroogde ananas + ananasstengel + kokospoeder
 		</textLine>
 	</recipe>
+	<recipe name="PORNSTAR MARTINI" nr="83" fontSize="48" bold="yes">
+		<textLine fontSize="32" bold="yes">
+			Martiniglas (pornstar) voorkoelen
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Halve passievrucht uitlepelen in shaker
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4cl Eristoff
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			1cl Vanillesiroop
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl passoa
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Monin puree Passie
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			3cl  Limoensapmix
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			3 druppels eiwitvervanger
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			FIJNSTRAIN IN MARTINI
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Halve passievrucht erin
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Serveren met shot cava bij (glaasje niet volledig vol)
+		</textLine>
+	</recipe>
+	<recipe name="PORNSTAR SPRITZ" nr="84" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			WIJNGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			8cl Cava
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			6cl Passoa
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			1,5cl Vanillesiroop
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			4cl  Bruiswater
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			1cl Monin puree passie
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			GOED STIRREN (siroop oplossen)
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Appelsienschijf
+		</textLine>
+	</recipe>
+	<recipe name="QUICKIE AT SUNSET" nr="85" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="yes">
+			LONGDRINK met crushed ice
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Eristoff wit
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Bols aardbei
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			3cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			Aanvullen Crushed ice
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			8cl veenbes bovenop
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Lang rietje
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			+ � aardbei + Munttopje
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="RASPBERINHA" nr="86" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			4 partjes limoen + 1 framboos
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl Cacha�a
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Bacardi Razz
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Monin Puree Framboos
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + Gedroogde limoen + 1 Framboos + Suikerrietstengel
+		</textLine>
+	</recipe>
+	<recipe name="RASPBERRY COLADA" nr="87" fontSize="60" bold="yes">
+		<textLine fontSize="31" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			5cl Batida de coco
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			2cl Bacardi Razz
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			2cl Monin puree Raspberry
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			15cl Ananassap
+		</textLine>
+		<textLine fontSize="31" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="31" bold="yes">
+			STRAIN IN MASON JAR met crushed ice
+		</textLine>
+		<textLine fontSize="31" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="31" bold="no">
+			+ gedroogde ananas + framboos + ananasstengel + kokospoeder
+		</textLine>
+	</recipe>
+	<recipe name="RASPBERRY DAIQUIRI" nr="88" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas voorkoelen
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2 frambozen muddlen in shakerglas
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Bacardi Razz
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin puree framboos
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			gedroogde limoen + framboos
+		</textLine>
+	</recipe>
+	<recipe name="SANGRIA" nr="89" fontSize="60" bold="yes">
+		<textLine fontSize="40" bold="yes">
+			G&amp;T GLAS
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Fruit erin (sinaas, aardbei, kiwi, bessen)
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Verder volledig!! vullen met blokkenijs
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Vullen met sangria (wit/rood)
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="40" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Lange lepel in glas
+		</textLine>
+		<textLine fontSize="40" bold="no">
+			Kort rietje
+		</textLine>
+	</recipe>
 </recipes>
