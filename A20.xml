@@ -2601,4 +2601,273 @@
 			Bloemsuiker erover
 		</textLine>
 	</recipe>
+	<recipe name="PASSION CAIPIRINHA" nr="76" fontSize="48" bold="yes">
+		<textLine fontSize="33" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			4 partjes limoen + Kontje van passievrucht, andere deel uitlepelen in glas
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			5cl Cacha�a
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			1cl Passoa
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			2cl Monin Puree passie
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="33" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="33" bold="no">
+			Kort rietje + Gedroogde limoen + kontje passievrucht + Suikerrietstengel
+		</textLine>
+	</recipe>
+	<recipe name="PASSION CAIPIROSKA" nr="77" fontSize="48" bold="yes">
+		<textLine fontSize="32" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			4 partjes limoen
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Kontje van passievrucht, uitlepelen in glas
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			5cl Eristoff
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Passoa
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2cl Monin Puree Passie
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			7cl Limoensapmix
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="32" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			2 korte rietjes
+		</textLine>
+		<textLine fontSize="32" bold="no">
+			+ gedroogde limoen + Kontje passievrucht + suikerrietstengel
+		</textLine>
+	</recipe>
+	<recipe name="PASSIORITA" nr="78" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas rand inwrijven met limoen + zout op rand
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Kontje van passievrucht, inhoud andere deel in shaker
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			4cl Tequila
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Triple Sec
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			1cl Passoa
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin Puree Passie
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Kontje passievrucht in glas
+		</textLine>
+	</recipe>
+	<recipe name="RAZZJITO" nr="79" fontSize="44" bold="yes">
+		<textLine fontSize="28" bold="yes">
+			BACARDIGLAS
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			4 partjes limoen + 2 verse
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			frambozen
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			MUDDLE
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			10 blaadjes munt
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			MUDDLE ZACHT!
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			5cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			2cl Bacardi razz
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			2cl Monin puree framboos
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			7 cl Limoensapmix
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			STIR
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Crushed ice
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Scheutje spuitwater
+		</textLine>
+		<textLine fontSize="29" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Kort rietje + munttopje + gedroogde limoen + framboos + suikerrietstengel
+		</textLine>
+		<textLine fontSize="29" bold="no">
+			Bloemsuiker erover
+		</textLine>
+	</recipe>
+	<recipe name="RAZZITA" nr="80" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas rand inwrijven met limoen + zout op rand
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2 Frambozen in shaker
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			4cl Tequila
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Triple Sec
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			1cl Bacardi Razz
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin Puree framboos
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Gedroogde limoen in glas leggen + framboos op limoen
+		</textLine>
+	</recipe>
+	<recipe name="RITA NEGRA" nr="81" fontSize="48" bold="yes">
+		<textLine fontSize="36" bold="no">
+			Martiniglas rand inwrijven met limoen + zout op rand
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			3 blauwe bessen in shaker
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKER VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Tequila
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Triple Sec
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Monin Puree Bessen
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Limoensapmix
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MARTINIGLAS
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Gedroogde limoen in glas leggen + blauwe bes op limoen
+		</textLine>
+	</recipe>
+	<recipe name="PINA COLADA" nr="82" fontSize="60" bold="yes">
+		<textLine fontSize="36" bold="yes">
+			SHAKERGLAS VOL IJS
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			5cl Batida de coco
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			2cl Bacardi Carta Blanca
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			15cl Ananassap
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			SHAKEN
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			STRAIN IN MASON JAR met crushed ice
+		</textLine>
+		<textLine fontSize="36" bold="yes">
+			TOPPING
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			Kort rietje
+		</textLine>
+		<textLine fontSize="36" bold="no">
+			+ gedroogde ananas + ananasstengel + kokospoeder
+		</textLine>
+	</recipe>
 </recipes>
