@@ -4439,7 +4439,7 @@
 		<textLine fontSize="32" bold="yes">
 			TOPPING
 		</textLine>
-		<textLine fontSize="" bold="no">
+		<textLine fontSize="28" bold="no">
 			Kontje passievrucht in glas
 		</textLine>
 	</recipe>
